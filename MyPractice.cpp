@@ -25,6 +25,8 @@ int main()
 				cout<<"year is not a leep year"<<endl;
 			}
 	
+// 	**********If**else** program2
+	
 	
 int num;
 cin>>num;
@@ -67,6 +69,8 @@ int n;
 	
 	
 //**********patterns**********
+	
+	
 	int n;
 	cin>>n;
 	
@@ -88,27 +92,10 @@ int n;
 	for(int i=1; i<=10; ++i){
 		cout<<n << " X " << i << " = " << i*n <<endl ;
 	}
-
-
-
 	
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
 	
 	return 0;
 }
