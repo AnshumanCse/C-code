@@ -92,7 +92,34 @@ int n;
 	cout<<"enter the value of n"<<endl;
 	cin>>n;
 	
+	for(int value=1; value<=main; ++value){
+		
+		
+		for(int R=1; R<=value; ++R){
+			cout<<" * ";
+			R = R+1;
 
+}
+		cout<<endl;
+		
+	}
+	
+for(int i=1; i<=n; i++ ){
+//	int value=i;
+	for(int j=1; j<=i; j++){
+//		int k = i;
+		cout<<j+i-1;
+	}
+	cout<<endl;
+	
+//	i=i+1;
+}
+
+	
+	
+	
+	
+	
 	
 	return 0;
 }
