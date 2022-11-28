@@ -55,7 +55,7 @@ int n;
 		cout<<factorial<<endl;
 	}
 	
-	
+// 	********pattern 3*************
 	int n, a;
 	cin>>n;
 	
@@ -115,8 +115,6 @@ for(int i=1; i<=n; i++ ){
 //	i=i+1;
 }
 
-	
-	
 	
 	
 	
