@@ -64,13 +64,7 @@ int n;
 		   cout<<a<<endl;
 }	
 	
-
-
-	
-	
 //**********patterns**********
-	
-	
 	int n;
 	cin>>n;
 	
@@ -93,9 +87,12 @@ int n;
 		cout<<n << " X " << i << " = " << i*n <<endl ;
 	}
 	
+// 	****Patterns******
+		int n;
+	cout<<"enter the value of n"<<endl;
+	cin>>n;
 	
-	
-	
+
 	
 	return 0;
 }
