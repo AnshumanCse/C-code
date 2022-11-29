@@ -103,7 +103,7 @@ int n;
 		cout<<endl;
 		
 	}
-	
+// 	*********program  3********
 for(int i=1; i<=n; i++ ){
 //	int value=i;
 	for(int j=1; j<=i; j++){
@@ -115,9 +115,6 @@ for(int i=1; i<=n; i++ ){
 //	i=i+1;
 }
 
-	
-	
-	
 	
 	return 0;
 }
