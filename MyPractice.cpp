@@ -29,13 +29,14 @@ int main()
 	
 	
 int num;
+	
 cin>>num;
 
 if (num%2==0){
 	cout<<"Number is even" <<endl; 
 }
 else{
-	cout<<"number is odd";
+	cout<<"number is completely odd";
 }
 
 //**************LOOPS********
