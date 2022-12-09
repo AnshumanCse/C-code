@@ -116,6 +116,10 @@ for(int i=1; i<=n; i++ ){
 //	i=i+1;
 }
 	
+int a;
+	float b;
+
+	
 	
 
 	
