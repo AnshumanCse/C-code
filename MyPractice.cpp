@@ -116,7 +116,7 @@ for(int i=1; i<=n; i++ ){
 //	i=i+1;
 }
 	
-int a;
+
 	float b;
 
 while(4>5){
@@ -125,6 +125,7 @@ while(4>5){
 	
 for(int i=0; i<=n; i++){
 	
+	
 }
 	
 
@@ -132,4 +133,6 @@ for(int i=0; i<=n; i++){
 change
 	
 	return 0;
+	
+	
 }
